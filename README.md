@@ -42,6 +42,6 @@ There really isn't a lot going on, as you can see. However, PylapseNG does do so
 
 ### Demo
 
-*(./demo.mp4)*
+https://github.com/sykeben/PylapseNG/assets/33205078/1dce673d-5c9e-48a4-a24c-f3737056266c
 
 See? Super easy!
